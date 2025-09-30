@@ -45,7 +45,7 @@ bash merge.sh
 If you find this repo useful for your research, please consider citing the paper:
 ```
 @article{chen2025lr,
-  title={LR $\^{} 2$ Bench: Evaluating Long-chain Reflective Reasoning Capabilities of Large Language Models via Constraint Satisfaction Problems},
+  title={LR2 Bench: Evaluating Long-chain Reflective Reasoning Capabilities of Large Language Models via Constraint Satisfaction Problems},
   author={Chen, Jianghao and Wei, Zhenlin and Ren, Zhenjiang and Li, Ziyong and Zhang, Jiajun},
   journal={arXiv preprint arXiv:2502.17848},
   year={2025}
